@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My awesome page
+title: Yen Choi's Space
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   © Copyrights by Yen, Ye Eun Choi 2021
@@ -28,7 +28,7 @@ twitter_username: --
 github_username: yenchoi010
 
 # Build settings
-theme: minima
+theme: portfolYOU
 plugins:
   - jekyll-feed
 # Exclude from processing.
